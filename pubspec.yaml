@@ -1,0 +1,21 @@
+name: flutter_reversi
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  syncfusion_flutter_xlsio:
+  # ^19.1.64-beta
+
+
+dev_dependencies:
+  flutter_driver:
+    sdk: flutter
+  test:
+
+flutter:
+  uses-material-design: true
